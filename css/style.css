@@ -54,6 +54,10 @@ aside div:nth-child(1) {
 	text-align: center;
 }
 
+#aboutme {
+	flex-grow: 1;
+}
+
 #hobbies span {
 	padding: 1em;
 }
