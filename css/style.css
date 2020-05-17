@@ -47,6 +47,7 @@ img {
 
 #hobbies  {
 	text-align: center;
+	padding-bottom: 10px;
 }
 
 
@@ -107,6 +108,7 @@ section {
 	grid-template-rows: 1fr;
 	max-width: 90%;
 	margin: auto;
+	padding-bottom: 9px;
 }
 
 @media screen and (max-width: 860px) {
